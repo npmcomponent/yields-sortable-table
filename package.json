@@ -1,0 +1,16 @@
+{
+  "name": "yields-sortable-table",
+  "description": "Sortable table.",
+  "version": "0.0.1",
+  "keywords": [
+    "sortable",
+    "table"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-sortable": "git://github.com/npmcomponent/yields-sortable.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git"
+  },
+  "license": "MIT"
+}

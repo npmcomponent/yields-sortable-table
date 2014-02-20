@@ -3,10 +3,10 @@
  * dependencies
  */
 
-var Sortable = require('sortable')
-  , classes = require('classes')
+var Sortable = require('yields-sortable')
+  , classes = require('component-classes')
   , proto = Sortable.prototype
-  , inherit = require('inherit');
+  , inherit = require('component-inherit');
 
 /**
  * Export `SortableTable`
